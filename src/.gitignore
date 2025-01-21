@@ -1,0 +1,14 @@
+# Ignore Laravel-specific files
+/laravel-backend/vendor
+/laravel-backend/storage
+/laravel-backend/.env
+
+# Ignore React dependencies and build files
+/node_modules
+/public/static
+
+# Ignore temporary/IDE/system files
+.DS_Store
+Thumbs.db
+*.log
+*.ini
